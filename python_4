@@ -1,0 +1,6 @@
+x={-200,1,2,3,44,44}
+print(x)
+x.remove(-200)
+print(x)
+x.add(200)
+print(x)
