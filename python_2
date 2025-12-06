@@ -1,0 +1,7 @@
+x={"name":"narges","family":"dorzadeh","age":"14"}
+print(type(x))
+print(x)
+print(x["name"])
+print(x["family"])
+print(x["age"])
+print(list(x))
