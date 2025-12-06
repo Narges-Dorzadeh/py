@@ -1,0 +1,13 @@
+name_list=[]
+
+while True:
+    x = input("want to add? (y_N)")
+    if x == "n":
+        break
+    score={"name":input("enter your name:")
+    ,"family":input("enter student family:"),
+    "age":int(input("enter age of student:")),
+    "score":[20,18,17,16,15]}
+    print(score)
+    name_list.append(score)
+    print(name_list)
