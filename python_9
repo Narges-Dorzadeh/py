@@ -1,0 +1,5 @@
+name=input("enter your name:")
+family=input("enter your family:")
+age=int(input("enter your age:"))
+city=input("enter your city:")
+print(f"name:{name}_____family:{family}_____age:{age}_____city{city}")
